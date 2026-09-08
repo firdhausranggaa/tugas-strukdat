@@ -31,8 +31,8 @@ Pastikan *compiler* C++ (seperti MinGW/GCC) sudah terpasang. Kamu bisa mengompil
 
 1. Buka terminal/Command Prompt di dalam direktori repositori ini.
 2. Lakukan kompilasi menggunakan perintah (contoh untuk `tugas1.cpp`):
-   ```bash
-   g++ tugas1.cpp -o tugas1
+```bash
+g++ tugas1.cpp -o tugas1
 
 ```
 
