@@ -1,0 +1,11 @@
+# Mengabaikan semua file executable hasil kompilasi
+*.exe
+*.o
+*.obj
+
+# Mengabaikan folder konfigurasi workspace lokal VS Code
+.vscode/
+
+# Mengabaikan file cache/sistem bawaan Windows
+Thumbs.db
+Desktop.ini
